@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Transfer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .transfer {
+            width: 100%;
+            max-width: 500px;
+            margin: 100px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h2 {
+            text-align: center;
+        }
+        input[type="text"], input[type="password"], input[type="number"] {
+            width: 95%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #5cb85c;
+            border: none;
+            color: white;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #4cae4c;
+        }
+    </style>
+</head>
+<body>
+
+<div class="transfer">
+    <h2>Card-to-Card Transfer</h2>
+    <form method="post" action="/transfer">
+        <input type="text" name="sourceCardNumber" placeholder="Source Card Number(16 16Digits)" required>
+        <input type="text" name="destinationCardNumber" placeholder="Destination Card Number(16Digits)" required>
+        <input type="number" name="amount" placeholder="Amount" required>
+        <input type="password" name="password" placeholder="Password" required>
+        <input type="submit" value="Transfer">
+    </form>
+</div>
+
+</body>
+</html>

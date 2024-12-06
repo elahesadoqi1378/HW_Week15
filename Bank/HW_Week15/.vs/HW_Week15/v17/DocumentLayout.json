@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\services\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\repositories\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\contracts\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\dal\\configurations\\cardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\dal\\configurations\\cardconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\contracts\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\contracts\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\contracts\\repositories\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\contracts\\repositories\\icardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\entities\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|c:\\users\\arya\\source\\repos\\hw_week15\\hw_week15\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1D8F61-5B95-421A-AFF1-ADDD2B6EFCFA}|HW_Week15\\HW_Week15.csproj|solutionrelative:hw_week15\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Migrations\\20241204011211_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW_Week15\\Migrations\\20241204011211_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Migrations\\20241204010748_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW_Week15\\Migrations\\20241204010748_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Repositories\\CardRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\Repositories\\CardRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Repositories\\CardRepository.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\Repositories\\CardRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:47:19.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\FileService.cs",
+              "RelativeToolTip": "HW_Week15\\Services\\FileService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:36:46.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:31:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\CardService.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Services\\CardService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\CardService.cs",
+              "RelativeToolTip": "HW_Week15\\Services\\CardService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwBgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:05:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CardConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Configurations\\CardConfiguration.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\Configurations\\CardConfiguration.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Configurations\\CardConfiguration.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\Configurations\\CardConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:22:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Contracts\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Contracts\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "HW_Week15\\Contracts\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:46:07.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\TransactionService.cs",
+              "RelativeToolTip": "HW_Week15\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:29:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Services\\UserService.cs",
+              "RelativeToolTip": "HW_Week15\\Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:32:29.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Program.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Program.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Program.cs",
+              "RelativeToolTip": "HW_Week15\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswJIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:13:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:49:27.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:51:31.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwB0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:23:27.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Configurations\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\DAL\\Configurations\\TransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\DAL\\Configurations\\TransactionConfiguration.cs",
+              "RelativeToolTip": "HW_Week15\\DAL\\Configurations\\TransactionConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:23:14.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "HW_Week15\\Contracts\\Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:44:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Contracts\\Repositories\\ICardRepository.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Contracts\\Repositories\\ICardRepository.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Contracts\\Repositories\\ICardRepository.cs",
+              "RelativeToolTip": "HW_Week15\\Contracts\\Repositories\\ICardRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:43:46.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Entities\\User.cs",
+              "RelativeToolTip": "HW_Week15\\Entities\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:14:35.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Entities\\Card.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Entities\\Card.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Entities\\Card.cs",
+              "RelativeToolTip": "HW_Week15\\Entities\\Card.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:14:17.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Entities\\Transaction.cs",
+              "RelativeToolTip": "HW_Week15\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:14:28.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241204011211_init.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Migrations\\20241204011211_init.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Migrations\\20241204011211_init.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Migrations\\20241204011211_init.cs",
+              "RelativeToolTip": "HW_Week15\\Migrations\\20241204011211_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:12:11.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241204010748_init.cs",
+              "DocumentMoniker": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Migrations\\20241204010748_init.cs",
+              "RelativeDocumentMoniker": "HW_Week15\\Migrations\\20241204010748_init.cs",
+              "ToolTip": "C:\\Users\\ARYA\\source\\repos\\HW_Week15\\HW_Week15\\Migrations\\20241204010748_init.cs",
+              "RelativeToolTip": "HW_Week15\\Migrations\\20241204010748_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T01:07:48.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
